@@ -1,0 +1,3 @@
+# Base Story
+
+### Vegapunk attempted to discover the world's secret by building a time machine, but his experiment went awry, leading in the creation of a space-time machine that united four universes: One Piece, Sherlock Holmes, Watch Dogs, and Doctor Strange. This incident created a concern because the four universes clashed, resulting in their demise. Feeling responsible, Vegapunk attempted to lock the gates but realized he couldn't do so alone in his own universe. He went out to anybody in the impacted universes, but only Doctor Strange received the message. However, as the hero he is, Doctor Strange transmitted the message to Sherlock, Aiden Pearce, and Vegapunk, imploring them to work together to tackle the issue.
