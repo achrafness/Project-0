@@ -6,4 +6,4 @@ Difficulty
 
 MEDIUM
 
-https://www.kaggle.com/competitions/character-journey-to-raftel-island
+[Link challenge](https://www.kaggle.com/competitions/character-journey-to-raftel-island)
